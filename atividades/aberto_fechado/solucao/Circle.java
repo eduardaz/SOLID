@@ -1,4 +1,4 @@
-public class Circle extends DesenharForma {
+public class Circle implements DesenharForma {
 
     @Override
     private void desenhar() {

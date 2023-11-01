@@ -1,4 +1,4 @@
-public class Triangle implements DesenharForma {
+public class Triangle implements Shape {
 
     @Override
     private void desenhar() {

@@ -1,2 +1,2 @@
-interface DesenharForma
+interface Shape
     public void desenhar();

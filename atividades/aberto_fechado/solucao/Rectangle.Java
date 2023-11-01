@@ -1,4 +1,4 @@
-public class Rectangle implements DesenharForma {
+public class Rectangle implements Shape {
 
     @Override
     private void desenhar() {
